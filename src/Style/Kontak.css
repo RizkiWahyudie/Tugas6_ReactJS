@@ -1,0 +1,11 @@
+#kontak_bg {
+    background-image: url("https://get.pxhere.com/photo/abstract-art-artistic-background-beautiful-blue-color-colored-smoke-colorful-creative-delicate-detail-effects-explode-explosion-fog-motion-movement-paint-pattern-science-slow-motion-smoke-texture-1475989.jpg");
+    height: 730px;
+}
+
+.kontak {
+    color: black;
+    text-align: center;
+    margin-top: 208px;
+    background-color: white;
+}
