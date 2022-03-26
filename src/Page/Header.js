@@ -12,7 +12,7 @@ class Header extends Component {
                             <center>
                                 <td>
                                     <h2>
-                                        <NavLink to="/" exact className="link">
+                                        <NavLink to="/" className="link">
                                             Home
                                         </NavLink>
                                         |
@@ -20,7 +20,7 @@ class Header extends Component {
                                 </td>
                                 <td>
                                     <h2>
-                                        <NavLink to="/menu_makanan" exact className="link">
+                                        <NavLink to="/menu_makanan" className="link">
                                             Makanan
                                         </NavLink>
                                         |
@@ -28,7 +28,7 @@ class Header extends Component {
                                 </td>
                                 <td>
                                     <h2>
-                                        <NavLink to="/menu_minuman" exact className="link">
+                                        <NavLink to="/menu_minuman" className="link">
                                             Minuman
                                         </NavLink>
                                         |
